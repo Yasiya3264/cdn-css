@@ -1,0 +1,30 @@
+.online {
+    color: green;
+}
+
+.offline {
+    color: red;
+}
+
+.para a {
+    font-family: 700;
+    color: black;
+    text-decoration: none;
+}
+
+.para {
+    color: rgb(60, 60, 60);
+    font-size: 12px;
+    padding-top: 52px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0px;
+    font-size: 12px;
+}
+
+footer span {
+    color: red;
+    font-family: 700px;
+}
